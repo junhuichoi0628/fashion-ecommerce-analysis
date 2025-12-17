@@ -111,4 +111,18 @@ This framework allows isolation of whether revenue changes are driven by:
 
 ---
 
-## 8. Repository Structure
+## 8. Related Links
+- 📊 Project Slides (Google Slides):  
+  https://docs.google.com/presentation/d/e/2PACX-1vSmr9woxhArPnIb24Qx6qokWVeffNFRsu8Njh0arcWgc6RxywTcZ8D_pR_qbPry8Ot5lp0O440kE4m9/pub
+
+- 🌐 Portfolio Website:  
+  https://junhuichoi.github.io
+
+---
+
+## 9. Business Value
+- Identified structural causes behind abnormal revenue decline
+- Delivered prioritized, data-backed recommendations
+- Established a reusable KPI and funnel monitoring framework
+- Insights directly applicable to product, marketing, and engineering teams
+
