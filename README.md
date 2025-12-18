@@ -116,7 +116,7 @@ This framework allows isolation of whether revenue changes are driven by:
   https://docs.google.com/presentation/d/e/2PACX-1vSmr9woxhArPnIb24Qx6qokWVeffNFRsu8Njh0arcWgc6RxywTcZ8D_pR_qbPry8Ot5lp0O440kE4m9/pub
 
 - Portfolio Website:  
-  https://junhuichoi0628.github.io
+https://junhuichoi0628.github.io/junhuichoi.github.io/
 
 ---
 
